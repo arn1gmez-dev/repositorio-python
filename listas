@@ -1,0 +1,6 @@
+lista = ["manzana","pera","plátano","sandía","melon"]
+for elemento in lista:
+    print(elemento)
+for i in range (5):
+    print(i)
+print(i)
